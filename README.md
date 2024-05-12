@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+Meet HuzairahBot the Clown! 🤡✨
+Welcome to the whimsical world of HuzairahBot, the ultimate digital jestmaster programmed to keep your Discord server in stitches! From puns that make you groan to jokes that launch coffee out of your nose, this bot doesn't just perform—it dazzles with a digital squirting flower and all!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Why Settle for a Boring Bot?
+Forget those run-of-the-mill bots that just moderate or play music. HuzairahBot brings the circus to you, turning your server into a virtual big top. Whether you're looking for a quick chuckle or a full-blown belly laugh, HuzairahBot is here with a pie in hand, aimed and ready to fire.
 
-## Available Scripts
+Features:
+Joke of the Day: Get your daily dose of giggles with jokes so funny, even your grumpiest member will crack a smile!
+Roast Mode: Feeling cheeky? Challenge HuzairahBot to roast you or your friends, but be warned—this clown hits back with zingers.
+Pun Parades: Throw a word at it, and watch as it conjures puns so pun-ishingly pun-derful, you'll wonder how you ever chatted without it.
+Comedic Timing: With timing so precise, HuzairahBot knows just when to drop a joke to lighten the mood.
+Invite HuzairahBot to Perform at Your Server:
+Adding HuzairahBot to your server is easier than honking a clown's nose. Just click here, give the bot the spotlight, and let the shenanigans begin!
 
-In the project directory, you can run:
+Join the Circus:
+Remember, every day is a carnival with HuzairahBot in your server. Keep the cotton candy handy, fasten your seat belt, and enjoy the ride—things are about to get hilariously wild!
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
