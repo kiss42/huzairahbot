@@ -21,13 +21,14 @@ module.exports = {
            
             "does your hoes know what you're up to? 👀",
             "wrong bitch wrong bitch",
+            "i thought you were different",
         ];
 
         // Choose a random phrase or use the custom one
         const phrase = customPhrase || phrases[Math.floor(Math.random() * phrases.length)];
         
         // Create the message to send
-        const replyMessage = `${target}, nigga ${phrase}`;
+        const replyMessage = `${target} ${phrase}`;
 
         // Send the message in the interaction
         await interaction.reply(replyMessage);
